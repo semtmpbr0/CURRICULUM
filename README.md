@@ -20,5 +20,5 @@ A página é dividida nas seguintes seções:
 
 ## ✨ Como Visualizar
 
-Você pode acessar a versão online do projeto através do GitHub Pages neste link: [Acessar a Página](https://seu-usuario.github.io/portfolio-pessoal/)
+Você pode acessar a versão online do projeto através do GitHub Pages neste link: [Acessar a Página](https://semtmpbr0.github.io/CURRICULUM/)
 *(Obs: Vamos gerar este link no próximo passo!)*
